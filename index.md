@@ -4,8 +4,13 @@ layout: default
 ---
 
 # Authors
+
 Takuya Hasumi, Yuma Shirahata, Ryuichi Yamamoto, Welly Naptali,
 Eunwoo Song, Kentaro Tachibana, Jae-Min Kim
+
+# Abstract
+
+In this paper, we investigate the performance of various text-speech alignment methods to build a high-quality emotional parallel text-to-speech (TTS) system. Generally, there are three types of strategies to obtain alignments between the recordings and the corresponding transcriptions: 1) Manual annotation of alignment by experts. 2) Estimation of alignment by an external text-speech aligner. 3) Acquisition of alignment through unsupervised alignment learning. Although the comparison of these methods has been performed on reading-style speech datasets in some previous works, their performance on emotional speech synthesis, where the dataset has a wide variety of pronunciation and prosody, has not been thoroughly investigated. To shed light on this matter, we conduct a comprehensive study on text-speech alignment strategies from both objective and subjective criteria on emotional TTS tasks. In addition, we further propose a semi-supervised alignment learning approach as one of the comparison methods. In this approach, the alignment module is pre-trained with a small amount of annotated data and then fine-tuned with a large amount of unannotated data. Main findings from experimental results include that the semi-supervised approach, which uses only 4% of annotated data, significantly improves the training stability of the unsupervised approach. Moreover, it achieves comparable performance to a model that employs fully annotated duration labels and the alignments extracted from a strong external forced aligner.
 
 # Audio Samples
 
