@@ -1,5 +1,5 @@
 ---
-title: Awesome title
+title: A COMPARATIVE STUDY OF TEXT-SPEECH ALIGNMENT METHODS FOR EMOTIONAL SPEECH SYNTHESIS
 layout: default
 ---
 
