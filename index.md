@@ -5,8 +5,11 @@ layout: default
 
 # Authors
 
-Takuya Hasumi, Yuma Shirahata, Ryuichi Yamamoto, Welly Naptali,
-Eunwoo Song, Kentaro Tachibana, Jae-Min Kim
+Takuya Hasumi<sup>1</sup>, Yuma Shirahata<sup>1</sup>, Ryuichi Yamamoto<sup>1</sup>, Welly Naptali<sup>1</sup>,
+Eunwoo Song<sup>2</sup>, Kentaro Tachibana<sup>1</sup>, Jae-Min Kim<sup>2</sup>
+
+<sup>1</sup>LINE Corp., Tokyo, Japan,<br>
+<sup>2</sup>NAVER Cloud, Seongnam, South Korea
 
 # Abstract
 
