@@ -43,3 +43,8 @@ In this paper, we investigate the performance of various text-speech alignment m
 | Period-VITS (external) | <audio controls src="samples/Period-VITS_external/sad/fkdo51172.wav"></audio> | <audio controls src="samples/Period-VITS_external/sad/mksk51196.wav"></audio> |
 | Semi-Period-VITS | <audio controls src="samples/Semi-RAD-Period-VITS/sad/fkdo51172.wav"></audio> | <audio controls src="samples/Semi-RAD-Period-VITS/sad/mksk51196.wav"></audio> |
 | Un-Period-VITS | <audio controls src="samples/RAD-Period-VITS/sad/fkdo51172.wav"></audio> | <audio controls src="samples/RAD-Period-VITS/sad/mksk51196.wav"></audio> |
+
+# References
+
+[1] Y. Shirahata, et al., "Period VITS: Variational inference with explicit pitch modeling for end-to-end emotional speech synthesis," in **Proc. ICASSP**, 2023, pp.1-5.
+[2] K. J. Shih, et al., "RAD-TTS: Parallel frlo-based TTS with robust alignment learning and diverse synthesis.", in **ICML workshop**, 2021.
