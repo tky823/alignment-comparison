@@ -46,5 +46,5 @@ In this paper, we investigate the performance of various text-speech alignment m
 
 # References
 
-[1] Y. Shirahata, et al., "Period VITS: Variational inference with explicit pitch modeling for end-to-end emotional speech synthesis," in **Proc. ICASSP**, 2023, pp.1-5.
-[2] K. J. Shih, et al., "RAD-TTS: Parallel frlo-based TTS with robust alignment learning and diverse synthesis.", in **ICML workshop**, 2021.
+- [1] Y. Shirahata, et al., "Period VITS: Variational inference with explicit pitch modeling for end-to-end emotional speech synthesis," in **Proc. ICASSP**, 2023, pp.1-5.
+- [2] K. J. Shih, et al., "RAD-TTS: Parallel frlo-based TTS with robust alignment learning and diverse synthesis.", in **ICML workshop**, 2021.
