@@ -4,7 +4,8 @@ layout: default
 ---
 
 # Authors
-TBD
+Takuya Hasumi, Yuma Shirahata, Ryuichi Yamamoto, Welly Naptali,
+Eunwoo Song, Kentaro Tachibana, Jae-Min Kim
 
 # Audio Samples
 
